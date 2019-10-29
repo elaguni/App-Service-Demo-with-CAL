@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Coffee Shop</title>
+<title>The Coffee Shop</title>
 <link href="Content/Site.css" rel="stylesheet" />
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
 <script src="Scripts/modernizr-2.5.3.js"></script>
